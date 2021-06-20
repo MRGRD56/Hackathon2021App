@@ -15,7 +15,7 @@
 
 СРЕДА ЗАПУСКА
 ------------
-1) Windows 10, работа на Linux и macOS, а также других версиях Windows возможна, но не проверялась.
+1) Windows 10 v2004. Работа на Linux и macOS, а также других версиях Windows возможна, но не проверялась.
 2) Требуется установленный .NET 5.0 Runtime.
 
 ЗАПУСК
@@ -23,4 +23,7 @@
 Необходимо запустить файл `MLNetApp.exe` в корне собранного проекта.
 
 РАЗРАБОТЧИКИ
-<h4>Голиков Кирилл https://github.com/MRGRD56</h4>
+------------
+<ul>
+    <li>Кирилл Голиков <a href="https://github.com/MRGRD56">GitHub</a> <a href="https://telegram.me/mrgrd56">Telegram</a></li>
+</ul>
